@@ -1,0 +1,15 @@
+Flask
+Flask-Login
+Flask-Mail
+Flask-Principal
+Flask-Security
+Flask-WTF
+Jinja2
+MarkupSafe
+Werkzeug
+itsdangerous
+flask-mongoengine
+flask-restful
+mongoengine
+passlib
+uWSGI
